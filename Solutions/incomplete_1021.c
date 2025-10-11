@@ -24,7 +24,7 @@ int main()
     printf("%d nota(s) de R$ 2.00\n", k);
     printf("MOEDAS:\n");
     l = j-(k*2);
-    m = 1/l;
+    m = l/1;
     printf("%d moeda(s) de R$ 1.00\n", m);
     n = l-(m*1);
     o = n*2;
