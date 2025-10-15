@@ -1,15 +1,13 @@
 #include <stdio.h>
- 
+
 int main() {
-    
-    int a,b,r;
-    scanf("%d %d",&a,&b);
-    a=(a*(a-1))/2;
-    b=(b*(b+1))/2;
-    r=b-a;
-    
-    printf("%d\n",r);
-    
- 
+    long long A, B;
+    scanf("%lld %lld", &A, &B);
+
+    long long sumB = B * (B + 1) / 2;
+    long long sumA = (A - 1) * A / 2;
+
+    printf("%lld\n", sumB - sumA);
+
     return 0;
 }
