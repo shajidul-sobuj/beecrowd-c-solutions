@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on CSE at DIU<br>
+ I’m Shajidul Islam Sobuj <br> Student of CSE @ <h3> DIU </h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@shajidul_sobuj) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kazishajidulislam.sobuj.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sajidislam990) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shajidul-sobuj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sajidislam991) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shajidul.islam.sobuj@gmail.com) 
